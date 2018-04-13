@@ -1,0 +1,2 @@
+# Plugins
+CloudCompare Plugins
