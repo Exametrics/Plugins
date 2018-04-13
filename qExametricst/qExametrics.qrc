@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/CC/plugin/qExametricst">
+        <file>img/exametrics_icon.png</file>
+         <file>info.json</file>
+    </qresource>
+</RCC>
